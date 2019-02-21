@@ -97,17 +97,17 @@
           list: [
             {
               logo: 'https://iocaffcdn.phphub.org/uploads/banners/bQawWl3vT5dc2lYx5JZ7.png',
-              title: '本站服务器由 UCloud 赞助',
+              title: '本站服务器没由 UCloud 赞助',
               link: 'http://www.ucloud.cn/?utm_source=zanzhu&utm_campaign=phphub&utm_medium=display&utm_content=yejiao&ytag=phphubyejiao'
             },
             {
               logo: 'https://iocaffcdn.phphub.org/uploads/banners/XPtLlZmIN1cQbLuDFEON.png',
-              title: 'Composer 镜像赞助商',
+              title: 'Composer 镜像赞助商没有赞助',
               link: 'https://www.upyun.com/'
             },
             {
               logo: 'https://iocaffcdn.phphub.org/uploads/banners/JpTCK6OKYBIrBIWdtob8.png',
-              title: '订阅邮件赞助商：SendCloud',
+              title: '订阅邮件赞助商：SendCloud也没有赞助',
               link: 'http://www.sendcloud.net/'
             }
           ]
